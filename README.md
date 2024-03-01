@@ -3,9 +3,9 @@
 
 Data Transformation: Designed and implemented SQL queries to retrieve data on total orders, total revenue, and category-wise sales.
 
-SQL Server: Established secure communication between on-premises SQL Server Management Studio and Power BI. Developed and maintained databases to store relevant sales data.
+SQL Server: Developed and maintained databases to store relevant sales data. Established secure communication between on-premises SQL Server Management Studio and Power BI. 
 
-Statistical Analysis in Power BI: Generated ad-hoc reports and dashboards using Power BI for real-time monitoring of sales performance. Leveraged statistical measures into Power BI dashboards, including averages, deviations, maximum, and minimum values. Utilized DAX to calculate and showcase data trends.
+Statistical Analysis in Power BI: Leveraged statistical measures into Power BI dashboards, including averages, deviations, maximum, and minimum values. Utilized DAX to calculate and showcase data trends.
 
 # Pizza Analytics Report: SQL Server and Power BI Findings
 
