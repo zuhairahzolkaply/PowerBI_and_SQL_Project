@@ -11,7 +11,7 @@ Statistical Analysis in Power BI: Leveraged statistical measures into Power BI d
 
 - [x] **Power Bi** - 
   -  Data Analysis <br />
-  *Download*
+  *Download* <br />
   *SQL file:* **[HERE](https://github.com/zuhairahzolkaply/PowerBI_and_SQL_Project/blob/704f90fe005b4d8789f7f436a74bb78aa64dce82/Pizza%20Sales%20Analysis/pizzasales.sql)**<br />
   * Pbix file:* **[HERE](https://github.com/zuhairahzolkaply/PowerBI_and_SQL_Project/blob/704f90fe005b4d8789f7f436a74bb78aa64dce82/Pizza%20Sales%20Analysis/pizzasales.pbix)**<br />
   ![Dashboard](https://github.com/zuhairahzolkaply/PowerBI_and_SQL_Project/blob/704f90fe005b4d8789f7f436a74bb78aa64dce82/Pizza%20Sales%20Analysis/Pizza%20sales%20dashboard.PNG)
